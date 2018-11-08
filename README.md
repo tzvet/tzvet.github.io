@@ -11,4 +11,4 @@ Here you can find some descriptions of work related stuff and links to code, pos
 
 ### Some code
 
-- [this code at my github repository](../../Data-Model-MotionSuppressionFacilitation-2018) presents the code attached to the submitted (on 2018/11/06-07) manuscript "Suppression and facilitation of motion perception in humans".
+- [this code at my github repository](../../../github.com/tzvet/Data-Model-MotionSuppressionFacilitation-2018) presents the code attached to the submitted (on 2018/11/06-07) manuscript "Suppression and facilitation of motion perception in humans".

@@ -1,4 +1,7 @@
 # Tzvetomir Tzvetanov's github web page
+
+Go to the [French](./README_fr.md) version
+
  - - - 
  
 I am a researcher. My scientific curriculum pages:

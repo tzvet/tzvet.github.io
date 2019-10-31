@@ -9,11 +9,10 @@ Je suis un chercheur. Liens vers mon curriculum scientifique :
 - sur [Researgate](https://www.researchgate.net/profile/Tzvetomir_Tzvetanov)
 - sur [Loop-Frontiers](https://loop.frontiersin.org/people/17380/overview)
 
-Ici vous trouverez des descriptions de certains projets liés à mon travail, et des codes de programmation
-proposés librement, "tel quel" (merci voir la licence qui est postée avec le code).
+Ici vous trouverez des commentaires ou descriptions liés à mon travail.
 
 Les points suivants sont présents:
-- Une [publication](#tzvetanov2019schallmo2018) sur la perception de stimuli simples en mouvement et ses tenants et aboutissants (Tzvetanov, 2018, [bioRxiv](https://www.biorxiv.org/content/10.1101/465807v1))
+- Une [publication](#tzvetanov2019schallmo2018) sur la perception de stimuli simples en mouvement et ses tenants et aboutissants [(Tzvetanov, 2018, bioRxiv)](https://www.biorxiv.org/content/10.1101/465807v1)
 
  - - - 
 

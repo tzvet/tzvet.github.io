@@ -9,13 +9,22 @@ I am a researcher. My scientific curriculum pages:
 - at [Researgate](https://www.researchgate.net/profile/Tzvetomir_Tzvetanov)
 - at [Loop-Frontiers](https://loop.frontiersin.org/people/17380/overview)
 
+Here you can find some descriptions of work related stuff.
+
 The following points are present:
-- A [publication](#tzvetanov2019schallmo2018) about motion perception in humans qnd the various events that happened around it
+- Link to a [document](#bernsteinfellow2008) concerning my work period during the first half of 2008 as Bernstein Fellow
+- Commentaries and discussion about my publication [“Suppression and facilitation of motion perception in Humans” (Tzvetanov, 2018, bioRxiv)](#tzvetanov2019schallmo2018) adn what happened in trying to publish it in the journal eLife
 
 - - - 
 
 
-Here you can find some descriptions of work related stuff and links to code, posted free and "AS IS" (see the related license posted with the code).
+
+### Period from January to April 2008 as Bernstein Fellow, and until June 2008 in Goettingen <a name="bernsteinfellow2008"></a> ###
+- I had difficulties to establish my work contract for carrying in Goettingen my own independent project that was financed by the Deutsche Forschungsgemeinschaft
+- Instead of my DFG financed grant, I found myself as a "super" postdoc with the title "Bernstein Fellow" at the Bernstein Center for Computational Neuroscience in Goettingen
+- This [pdf document in english](./document_pour_periode_BCCN2008_tzvetanov_5.pdf) gives my account about the events that happened and clarifies multiple errors about my Bernstein Fellow period, and around it, disseminated publicly by the BCCN Goettingen
+
+
 
 ### "Suppression and facilitation of motion perception in Humans" for the experimental design of [D.Tadin](http://www2.bcs.rochester.edu/sites/duje/) as used in the Nature (2003, 424:312-315) [paper](https://www.nature.com/articles/nature01800)
 - I wrote a Research Advance manuscript for eLife, improving the paper "Suppression and facilitation of human neural responses" by [Schallmo et al.](https://elifesciences.org/articles/30334)

@@ -7,7 +7,7 @@ Je suis un chercheur. Liens vers mon curriculum scientifique :
 - sur [Loop-Frontiers](https://loop.frontiersin.org/people/17380/overview)
 
 Les points suivants sont présents:
-- Une [publication][tzvetanov2019schallmo2018] sur la perception de stimuli simples en mouvement et ses tenants et aboutissants
+- Une [publication](#tzvetanov2019schallmo2018) sur la perception de stimuli simples en mouvement et ses tenants et aboutissants
 
  - - - 
 

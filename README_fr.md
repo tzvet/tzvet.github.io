@@ -13,7 +13,7 @@ Ici vous trouverez des descriptions de certains projets liés à mon travail, et
 proposé librement "tel quel" (voir la licence qui est postée avec le code).
 
 Les points suivants sont présents:
-- Une [publication](#tzvetanov2019schallmo2018) sur la perception de stimuli simples en mouvement et ses tenants et aboutissants
+- Une [publication](#tzvetanov2019schallmo2018) sur la perception de stimuli simples en mouvement et ses tenants et aboutissants (Tzvetanov, 2018, [bioRxiv](https://www.biorxiv.org/content/10.1101/465807v1))
 
  - - - 
 

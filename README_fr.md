@@ -1,4 +1,7 @@
 # Page web de Tzvetomir Tzvetanov's sur github
+
+Aller vers la page en [Anglais](./README.md) / Go to English version [english](./README.md)
+
  - - - 
  
 Je suis un chercheur. Liens vers mon curriculum scientifique :
@@ -11,7 +14,7 @@ Les points suivants sont présents:
 
  - - - 
 
-Ici vous trouverez des descriptions de certains projets liés au à mon travail, et des codes de programmation
+Ici vous trouverez des descriptions de certains projets liés à mon travail, et des codes de programmation
 proposé librement "tel quel" (voir la licence qui est postée avec le code).
 
 ### "Suppression and facilitation of motion perception in Humans" pour le design expériemental de [D.Tadin](http://www2.bcs.rochester.edu/sites/duje/) comme utilisé dans l'article Nature (2003, 424:312-315) [paper](https://www.nature.com/articles/nature01800) <a name="tzvetanov2019schallmo2018"></a> ###

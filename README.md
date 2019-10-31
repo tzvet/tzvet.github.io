@@ -9,9 +9,10 @@ I am a researcher. My scientific curriculum pages:
 - at [Researgate](https://www.researchgate.net/profile/Tzvetomir_Tzvetanov)
 - at [Loop-Frontiers](https://loop.frontiersin.org/people/17380/overview)
 
- - - - 
 The following points are present:
 - A [publication](#tzvetanov2019schallmo2018) about motion perception in humans qnd the various events that happened around it
+
+- - - 
 
 
 Here you can find some descriptions of work related stuff and links to code, posted free and "AS IS" (see the related license posted with the code).

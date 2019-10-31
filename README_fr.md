@@ -17,7 +17,7 @@ Les points suivants sont présents:
 
  - - - 
 
-### Période de travail de Janvier à Juin 2008 en tant que Bernstein Fellow à Goettingen <a name="bernsteinfellow2008"></a>###
+### Période de travail de Janvier à Juin 2008 en tant que Bernstein Fellow à Goettingen <a name="bernsteinfellow2008"></a> ###
 - J'ai eu des difficultés pour établir mon contrat de travail pour pouvoir mener à Goettingen mon propre projet indépendant et qui était financé par le Deutsche Forschungsgemeinschaft
 - Au lieu de mon financement DFG, je me suis retrouvé en tant que "super" post-doc avec le titre de "Bernstein Fellow" au Bernstein Center for Computational Neuroscience de Goettingen
 - Ce [document pdf en anglais](./document_pour_periode_BCCN2008_tzvetanov_4.pdf) donne mon point de vue sur les évènements qui se sont déroulés, et il clarifie plusieurs erreurs qui sont distribuées par le BCCN Goettingen

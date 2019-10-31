@@ -1,6 +1,6 @@
 # Page web de Tzvetomir Tzvetanov's sur github
 
-Aller vers la page en [Anglais](./README.md) / Go to English version [english](./README.md)
+Aller vers la page en [Anglais](./README.md)
 
  - - - 
  
@@ -17,8 +17,8 @@ Les points suivants sont présents:
 Ici vous trouverez des descriptions de certains projets liés à mon travail, et des codes de programmation
 proposé librement "tel quel" (voir la licence qui est postée avec le code).
 
-### "Suppression and facilitation of motion perception in Humans" pour le design expériemental de [D.Tadin](http://www2.bcs.rochester.edu/sites/duje/) comme utilisé dans l'article Nature (2003, 424:312-315) [paper](https://www.nature.com/articles/nature01800) <a name="tzvetanov2019schallmo2018"></a> ###
-- I wrote a Research Advance manuscript for eLife, improving the paper "Suppression and facilitation of human neural responses" by [Schallmo et al.](https://elifesciences.org/articles/30334)
-- I submitted a [bioRxiv manuscript](https://www.biorxiv.org/content/10.1101/465807v1) to eLife, and it was rejected at the editorial stage. [This code](https://github.com/tzvet/Data-Model-MotionSuppressionFacilitation-2018) goes with my manuscript "Suppression and facilitation of motion perception in humans".
-- The submission created a 3-way interaction between me, Drs Schallmo & Murray, and the Editorial Board of eLife, with result: the manuscript being rejected. Drs Schallmo & Murray wrote a [concern](https://www.biorxiv.org/content/10.1101/495291v1) as a reply to my manuscript, and I answered them [here](https://arxiv.org/abs/1902.01574). After the final decision from eLife, I commented on [pubpeer.com](https://pubpeer.com/publications/54A0746E8265090D11950DD2ECEFB7) about the issues of "reviewing" and scientific discussion setup by eLife & bioRxiv.
-- The code remains free (i.e. in the sense of the GPLv3) and openly available to people interested in this experimental design. The zip file contains the data and code (Octave; www.octave.org) for fitting the data with the model described in the manuscript, and creating the figures.
+### "Suppression and facilitation of motion perception in Humans" pour le design expériemental de [D.Tadin](http://www2.bcs.rochester.edu/sites/duje/) comme utilisé dans l'article [Nature (2003, 424:312-315)](https://www.nature.com/articles/nature01800) <a name="tzvetanov2019schallmo2018"></a> ###
+- J'ai écrit un manuscrit "Research Advance" pour la revue eLife, qui améliore l'article "Suppression and facilitation of human neural responses" publié par [Schallmo et al.](https://elifesciences.org/articles/30334)
+- Je l'ai publié sur [bioRxiv](https://www.biorxiv.org/content/10.1101/465807v1) et proposé pour publication sur eLife, mais il a été rejeté à l'étape de reveue éditoriale. [Ce code](https://github.com/tzvet/Data-Model-MotionSuppressionFacilitation-2018) fait partie de ma publication "Suppression and facilitation of motion perception in humans".
+- Cette procédure a créée une intéraction entre trois protagonistes, moi-meme, les Drs Schallmo et Murray, et les éditeurs de la revue eLife, avc résultat: mon manuscrit n'a pas été accepté pour etre relu par des spécialistes du domaine. Les Drs Schallmo & Murray ont publiés un commentaire où ils s'inquiètent ([concern](https://www.biorxiv.org/content/10.1101/495291v1)) de ma publication, comme réponse à mon article. J'ai répondu à leur inquiétudes [ici](https://arxiv.org/abs/1902.01574). Après la décision finale de la part des éditeurs de eLife, j'ai commenté sur [pubpeer.com](https://pubpeer.com/publications/54A0746E8265090D11950DD2ECEFB7) sur les points de relecture scientifique ("reviewing") et discussion scientifique créés par la revue eLife et la plateforme bioRxiv.
+- Le code reste "libre" (c.à.d. dans le sens da la GPLv3) et librement accessible pour ceux intéressés à ce sujet. Le fichier zip contient les données et le code (programme Octave; www.octave.org) pour ajuster le modèle aux données comme décrit dans le manuscrit, et pour créer les figures.

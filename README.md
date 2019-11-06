@@ -1,6 +1,7 @@
 # Tzvetomir Tzvetanov's github web page
 
-Go to the [French](./README_fr.md) version
+Go to the [French](./README_fr.md) version / 
+Go to the [Bulgarian](./README_bg.md) version
 
  - - - 
  

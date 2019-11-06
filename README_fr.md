@@ -6,7 +6,7 @@ Aller vers la page en [Anglais](./README.md)
  
 Je suis un chercheur. Liens vers mon curriculum scientifique :
 - sur [Orcid](https://orcid.org/0000-0002-2553-4741)
-- sur [Researgate](https://www.researchgate.net/profile/Tzvetomir_Tzvetanov)
+- sur [Researchgate](https://www.researchgate.net/profile/Tzvetomir_Tzvetanov)
 - sur [Loop-Frontiers](https://loop.frontiersin.org/people/17380/overview)
 
 Ici vous trouverez des commentaires ou descriptions liés à mon travail.

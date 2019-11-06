@@ -6,7 +6,7 @@ Go to the [French](./README_fr.md) version
  
 I am a researcher. My scientific curriculum pages:
 - at [Orcid](https://orcid.org/0000-0002-2553-4741)
-- at [Researgate](https://www.researchgate.net/profile/Tzvetomir_Tzvetanov)
+- at [Researchgate](https://www.researchgate.net/profile/Tzvetomir_Tzvetanov)
 - at [Loop-Frontiers](https://loop.frontiersin.org/people/17380/overview)
 
 Here you can find some descriptions of work related stuff.

@@ -24,8 +24,23 @@ The following points are present:
 - I had difficulties to establish my work contract for carrying in Goettingen my own independent project that was financed by the Deutsche Forschungsgemeinschaft
 - Instead of my DFG financed grant, I found myself as a "super" postdoc with the title "Bernstein Fellow" at the Bernstein Center for Computational Neuroscience in Goettingen
 - This [pdf document in english](./document_pour_periode_BCCN2008_tzvetanov_5.pdf) gives my account about the events that happened and clarifies multiple errors about my Bernstein Fellow period, and around it, disseminated publicly by the BCCN Goettingen
+- (addition on June 6th 2020) I informed on November 1st 2019 different parties (8 persons) that were cited in the above document about its presence. Since then I did not have any communication about the BCCN issue with any person. In the email, I wrote a statement about any communication on the issue about the BCCN from their side, or an intermediary contacting me on their behalf. **From now on, June 6th 2020, I make the statement in the email public and its validity generalises to any person that communicates with me about this BCCN period.** The statement is:
+> > After this email, any communication from your side about the BCCN that I receive
+> > could be made public at my own will.
+> > 
+> > This means, if you send me any communication about the BCCN, from now on, you accept and agree
+> > that it can be made public by me at my own will, irrespective of what you state in it.
+> > 
+> > This means, if some person, or organisation, takes contact and communicates about the BCCN with
+> > me on behalf of your name or your organisation, you accept and agree that all
+> > communications I receive from that person, or organisation, on your behalf can be
+> > made public by me at my own will, irrespective of what is stated in it. It is your
+> > responsibility to inform any other party communicating with me on your behalf
+> > that any of their communications enter into the above rule.
+> > 
 
 
+- - -
 
 ### "Suppression and facilitation of motion perception in Humans" for the experimental design of [D.Tadin](http://www2.bcs.rochester.edu/sites/duje/) as used in the Nature (2003, 424:312-315) [paper](https://www.nature.com/articles/nature01800)  <a name="tzvetanov2019schallmo2018"></a> ###
 - I wrote a Research Advance manuscript for eLife, improving the paper "Suppression and facilitation of human neural responses" by [Schallmo et al.](https://elifesciences.org/articles/30334)

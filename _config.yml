@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
-title: [Tzvetomir Tzvetanov’s github web page]
-description: [Here you can find some work related stuff]
+title: Tzvetomir Tzvetanov github web page
+description: Here you can find some work related stuff and more
+github_username: tzvet
+show_tags: true
+permalink: /blog/:year/:month/:day/:title

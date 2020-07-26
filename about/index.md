@@ -14,6 +14,6 @@ I am a researcher. My scientific curriculum pages:
 
 ## Copyright issues ##
 
-The Blog of Tzvetomir Tzvetanov is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0
+The Blog of Tzvetomir Tzvetanov is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
 
-Any code (software, source code, etc.) found on the web site of Tzvetomir Tzvetanov is licensed under GPLv3 license, present in the root directory; to view a copy of this license, visit https://github.com/tzvet/tzvet.github.io 
+Any code (software, source code, etc.) found on the web site of Tzvetomir Tzvetanov is licensed under GPLv3 license, present in the [root directory](https://github.com/tzvet/tzvet.github.io)

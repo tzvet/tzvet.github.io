@@ -1,12 +1,9 @@
 ---
 layout: post
 title: Pre-3rd June 2020 posts - french
-date: 2014-04-30
+date: 2020-06-03
 ---
 # Page web de Tzvetomir Tzvetanov sur github #
-
-Aller vers la page en [Anglais](./README.md) / 
-Aller vers la page en [Bulgare](./README_bg.md)
 
  - - - 
  

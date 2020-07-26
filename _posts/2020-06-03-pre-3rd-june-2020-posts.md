@@ -1,7 +1,12 @@
+---
+layout: post
+title: "Hank Quinlan, Horrible Cop, Launches Site"
+date: 2014-04-30
+---
 # Tzvetomir Tzvetanov's github web page
 
-Go to the [French](./README_fr.md) version / 
-Go to the [Bulgarian](./README_bg.md) version
+Go to the [French](./_posts/2020-06-03-pre-3rd-june-2020-posts_fr.md) version / 
+Go to the [Bulgarian](./_posts/2020-06-03-pre-3rd-june-2020-posts_bg.md) version
 
  - - - 
  

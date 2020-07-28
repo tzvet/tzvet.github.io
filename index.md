@@ -8,7 +8,6 @@ title: Tzvetomir Tzvetanov personal Github web page
 Ici, vous pouvez trouver quelques informations sur ma carrière scientifiques et un Blog. Voir "About" (A propos) pour plus d'informations.
 
 ---
----
 
 ## Tzvetomir Tzvetanov personal GitHub web page
 

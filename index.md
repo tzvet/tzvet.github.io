@@ -14,5 +14,5 @@ Ici, vous pouvez trouver quelques informations sur ma carrière scientifiques et
 Here you can find various points about my science career etc., including a blog. See About for basic infos.
 
 ---
-Number of visitors to this page so far:
-<img alt="Visitor counter" src="counter.php" />
+Number of visitors to this page so far
+<img alt=": " src="counter.php" />

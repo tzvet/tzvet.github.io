@@ -3,14 +3,14 @@ layout: default
 title: About the web site "Tzvetomir Tzvetanov personal Github web page"
 ---
 
-## A propos ##
+## À propos ##
 
 Je suis un scientifique, chercheur indépendant. Mon curriculum scientifique peut être vu :
 - chez [Orcid](https://orcid.org/0000-0002-2553-4741)
 - chez [Researchgate](https://www.researchgate.net/profile/Tzvetomir_Tzvetanov)
 - chez [Loop-Frontiers](https://loop.frontiersin.org/people/17380/overview)
 
-## Copyright / Licence des droits ##
+## Droits d'auteur / Licence des droits ##
 
 LE Blog de Tzvetomir Tzvetanov est mis sous licence [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
 

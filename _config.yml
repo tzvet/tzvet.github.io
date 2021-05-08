@@ -2,5 +2,5 @@ title: Tzvetomir Tzvetanov github web page
 description: Here you can find some work related stuff and more
 github_username: tzvet
 show_tags: true
-baseurl:  /tzvet.github.io
+baseurl:  /
 permalink: /blog/:year/:month/:day/:title

@@ -1,6 +1,6 @@
 ---
-layout: post  
-title: Avertissement 2, Warning 2 , Предупреждение 2 [fr,en,bg]  
+layout: post
+title: Avertissement 2, Warning 2 , Предупреждение 2 [fr,en,bg]
 date: 2023-06-22
 ---
 

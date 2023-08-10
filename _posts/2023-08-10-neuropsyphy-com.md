@@ -78,7 +78,7 @@ P.P.S. j'ai vérifié le nom de domaine de l'email de l'envoyeur; étrangement, 
 > 
 > Je n'ai pas de liens personnels ou de travail, que je connaisse, avec Taiwan ni l'entité "la République de Chine (Taiwan)", non reconnue au niveau de l'Organisation des Nations Unies.
 > 
-> J'espère que cette brève explication vous permettra, à vous Madame Tseng ainsi que les autres receveurs, de comprendre ma démarche.
+> J'espère que cette brève explication vous permettra, à vous Madame xxx ainsi que les autres receveurs, de comprendre ma démarche.
 > 
 > En vous souhaitant une bonne réception de ma réponse,
 > 

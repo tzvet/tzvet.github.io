@@ -14,6 +14,11 @@ Il y a quelques mois, j'avais découvert une vidéo d'il y a environ 10-15 anné
 Toute personne intéressée peut se référer au site de Mme Bilheran:  
 https://www.arianebilheran.com
 
+-- rajout le 11 avril 2024: liens vers ce seminaire  
+https://www.dailymotion.com/video/x1yvmxy + x1yvpju   
+qui m'ont ete donne par un ami ; si probleme de correspondance avec le texte ci-dessous, merci de m'en informer
+
+
 
 --- Texte de son séminaire ---
 

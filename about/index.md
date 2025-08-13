@@ -12,7 +12,7 @@ Je suis un scientifique, chercheur indépendant. Mon curriculum scientifique peu
 
 ## Droits d'auteur / Licence des droits ##
 
-LE Blog de Tzvetomir Tzvetanov est mis sous licence [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+LE blog de Tzvetomir Tzvetanov est mis sous licence [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
 
 Tout code  informatique ou programme (software, code source, etc.) sur le site web de Tzvetomir Tzvetanov est distribué sous licence GPLv3, présente dans le [répertoire racine](https://github.com/tzvet/tzvet.github.io)
 
